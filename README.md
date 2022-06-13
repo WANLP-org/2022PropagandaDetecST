@@ -5,6 +5,8 @@ Fine-grained Propaganda Detection in Arabic Social Media Text Shared Task, WANLP
 
 ## Timeline
 
+## Registration
+
 ## Submission
 
 ## Organizers
